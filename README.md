@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ilaykun
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning javascript, python
+- 📫 Contact me in twitter @ilaykun
